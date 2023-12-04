@@ -1,3 +1,8 @@
+header {
+    background-color: aquamarine;
+    color: black;
+}
+
 body {
     background-color: black;
     color: white; 
@@ -21,4 +26,9 @@ h1 {
 
 .imagem-1 {
     width: 40%;
+}
+
+footer {
+    background-color: aquamarine;
+    color: black;
 }
